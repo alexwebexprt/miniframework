@@ -1,0 +1,31 @@
+{
+  "name": "test",
+  "authors": [
+    "Web Dev"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests",
+	"src",
+	"package.json",
+	".github",
+	"build"
+  ],
+  
+  "dependencies": {
+    "jquery": "^3.5.1",
+    "bootstrap": "^4.5.2",
+    "bootbox.js": "^5.4.0",
+    "jquery-form": "^4.3.0",
+    "jquery-migrate": "^3.0.0"
+  }
+  
+}
